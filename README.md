@@ -2,7 +2,7 @@
 This repository contains the code used to create my résumé. This repository will be consistently updated. 
 
 # Credit
-This template is made by the GitHub user [posquit0](https://github.com/posquit0/), and the repository can be found here [https://github.com/posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV).
+This template is made by the GitHub user [posquit0](https://github.com/posquit0/), and the repository can be found [here](https://github.com/posquit0/Awesome-CV).
 
 From their repository:
 
